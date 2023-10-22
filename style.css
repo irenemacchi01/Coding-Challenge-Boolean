@@ -1,0 +1,68 @@
+body {
+    background-image: url('background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    height: 80px;
+    padding-top: 40px;
+}
+
+.logotext {
+    color: rgb(0, 224, 0);
+    font-size: 26px;
+}
+
+nav {
+    background-color: rgb(0, 224, 0);
+    text-align: center;
+    padding: 10px;
+    margin: 0px 50px 0px 50px;
+}
+ 
+main {
+    padding: 48px;
+    color: white;
+}
+
+p {
+    font-size: 12px;
+}
+
+.carica-gino {
+    background-color: coral;
+    padding:15px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.carica-mike {
+    background-color: greenyellow;
+    padding:15px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    width: 500px;
+}
+
+.carica-fede {
+    background-color: pink;
+    padding:15px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    width: 50px;
+}
